@@ -23,10 +23,10 @@
 {
   "accountId": 1,
   "role": "ADMIN",
-  "accountName": "Khoa",
+  "accountName": "String",
   "isActive": true,
   "message": "Login successful",
-  "email": "dangkhoavo10@gmail.com",
+  "email": "trancaodiepnct@gmail.com",
   "authorities": [
     {
       "authority": "ROLE_ADMIN"
